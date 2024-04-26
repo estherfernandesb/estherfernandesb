@@ -3,7 +3,7 @@
 
 😄 Pronouns: She/her
 
-🌱Currently, I'm focused on diving into the back-end area, so I'm studying a lot of Java, SQL, Ruby, and other languages.
+🌱Currently, I'm focused on diving into the back-end area, so I'm studying a lot of Java, SQL, and other languages.
 I spent a long time working with illustration—six years of dedication. Now, I've decided to embark on this journey into programming.🌱
 
 <div>
